@@ -1,0 +1,58 @@
+body {
+font-family: newtimesroman;
+  background-color: #e7e7ff
+}
+
+h1 {
+  text-align: center;
+  font-size: 55px;
+  color: #000050
+}
+
+p {
+  color: grey;
+  text-align: center;
+}
+
+.bilde {
+  width: 200px;
+  border-radius:50%;
+  border-color: grey;
+  border-width: 4px;
+  border-style: solid;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.sitat {
+  font-weight:bold;
+  font-style: italic;
+  font-size: 50px;
+}
+
+.ingenfasit {
+  margin-top: 50px;
+}
+
+.forfattar {
+  font-style: italic;
+}
+
+.forklaring1 {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 30px;
+  text-align: center;
+  color: #c4c4d8;
+}
+
+.forklaring2 {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 30px;
+  text-align: center;
+  color: #c4c4d8;
+}
